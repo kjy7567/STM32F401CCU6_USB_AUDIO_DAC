@@ -1,4 +1,5 @@
 Debug/
+.settings/
 .osx.project
 test Debug.launch
 test.ioc
