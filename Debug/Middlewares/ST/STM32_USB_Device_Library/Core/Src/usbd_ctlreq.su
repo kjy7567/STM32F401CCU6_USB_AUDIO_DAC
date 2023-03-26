@@ -1,4 +1,4 @@
-../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h:323:26:SWAPBYTE	32	static
+../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h:326:26:SWAPBYTE	32	static
 ../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:100:20:USBD_StdDevReq	24	static
 ../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:163:20:USBD_StdItfReq	24	static
 ../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:214:20:USBD_StdEPReq	24	static
