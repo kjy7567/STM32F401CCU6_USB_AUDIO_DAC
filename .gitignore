@@ -1,0 +1,5 @@
+Debug/
+.osx.project
+test Debug.launch
+test.ioc
+.DS_Store
